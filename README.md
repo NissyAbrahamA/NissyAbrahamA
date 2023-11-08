@@ -4,7 +4,7 @@
 
 Big thanks for visiting my GitHub account, Feel free to dive into the repositories, and give me a shout anytime!
 
-[Linkedin][linkedin]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nissy-abraham)
 
 [Email][email]
 
