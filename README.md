@@ -1,14 +1,15 @@
-### Hi there 👋 I'm Nissy
+### Hi there 👋 I'm  [ Nissy ][website]
 
 Big thanks for visiting my GitHub account, Feel free to dive into the repositories, and give me a shout anytime!
 
+[Linkedin][linkedin]
+[Email][email]
 
-Linkedin  [linkedin]
 
-### [ Nissy ][website]
 
 [website]: https://nissyabrahama.github.io/
 [linkedin]: www.linkedin.com/in/nissy-abraham
+[email]: mailto:anizy92@gmail.com
 
 #### I am a Data Engineer with a Keen Interest in Machine Learning and Robotics
 
