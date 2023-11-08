@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Nissy
+
+Big thanks for visiting my GitHub account, Feel free to dive into the repositories, and give me a shout anytime!
+
+[website]: https://nissyabrahama.github.io/
+[linkedin]: www.linkedin.com/in/nissy-abraham
+
+#### I am a Data Engineer with a Keen Interest in Machine Learning and Robotics
+
+
+<br />
+
+
 
 <!--
 **NissyAbrahamA/NissyAbrahamA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
