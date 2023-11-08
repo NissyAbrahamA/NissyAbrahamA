@@ -5,6 +5,7 @@
 Big thanks for visiting my GitHub account, Feel free to dive into the repositories, and give me a shout anytime!
 
 [Linkedin][linkedin]
+
 [Email][email]
 
 [website]: https://nissyabrahama.github.io/
