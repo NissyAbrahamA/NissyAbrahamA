@@ -9,7 +9,7 @@ Big thanks for visiting my GitHub account, Feel free to dive into the repositori
 [Email][email]
 
 [website]: https://nissyabrahama.github.io/
-[linkedin]:www.linkedin.com/in/nissy-abraham
+[linkedin]: https://www.linkedin.com/in/nissy-abraham
 [email]: mailto:anizy92@gmail.com
 
 
